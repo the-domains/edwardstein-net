@@ -1,0 +1,14 @@
+layout_spectrum: 0.8050624
+color:
+  saturation: 0.6534947
+  lightness: 0.7236842
+  brandStrength: 0.406015
+  brandColors:
+    - '#0A0907'
+    - '#828388'
+    - '#534A41'
+    - '#B7AFA2'
+    - '#FFF6BB'
+  rhythmicContrast: 0.6209273
+typography_spectrum: 0.7590041
+name: Edwardstein.net
