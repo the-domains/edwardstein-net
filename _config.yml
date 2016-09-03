@@ -11,6 +11,10 @@ color:
     - '#FFF6BB'
   rhythmicContrast: 0.6209273
 layout_spectrum: 0.8050624
+author:
+  name: Jeff Edwards
+  email: jedwards@ecsintl.com
+  url: www.edwardstein.net
 name: Edwardstein.net
 title: Never Pay Retail
 description: For inner cheapskate!
