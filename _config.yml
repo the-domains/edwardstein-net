@@ -1,4 +1,4 @@
-layout_spectrum: 0.8050624
+typography_spectrum: 0.7590041
 color:
   saturation: 0.6534947
   lightness: 0.7236842
@@ -10,5 +10,6 @@ color:
     - '#B7AFA2'
     - '#FFF6BB'
   rhythmicContrast: 0.6209273
-typography_spectrum: 0.7590041
+layout_spectrum: 0.8050624
 name: Edwardstein.net
+title: Never Pay Retail
